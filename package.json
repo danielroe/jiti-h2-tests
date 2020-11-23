@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@nuxt/h2": "^0.0.11",
-    "@nuxt/typescript-runtime": "^2.0.0",
     "body-parser": "^1.19.0",
     "cookie": "^0.4.1",
     "cookie-parser": "^1.4.5",
